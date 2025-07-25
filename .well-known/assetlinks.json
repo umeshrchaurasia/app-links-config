@@ -1,12 +1,9 @@
-[
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.yourpackage.name",
-      "sha256_cert_fingerprints": [
-        "AA:BB:CC:DD:EE:FF:00:11:22:33:44:55:66:77:88:99:AA:BB:CC:DD:EE:FF:00:11:22:33:44:55:66:77:88:99"
-      ]
-    }
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.policyboss.policybosspro",
+    "sha256_cert_fingerprints":
+    ["CA:FA:F6:C7:67:3C:82:62:FB:87:1F:ED:52:16:3F:D5:B6:EF:D5:29:1A:74:DA:64:21:ED:D5:09:FF:31:57:B7"]
   }
-]
+}]
